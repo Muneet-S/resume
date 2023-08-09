@@ -248,7 +248,7 @@ section:nth-child(2n){
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
-        
+    border-radius: 50px;   
 }
 
 .portfolio-pics:hover{
@@ -268,6 +268,7 @@ section:nth-child(2n){
  	font-weight: bold;
     background: #8af5e3;
     text-align: center;
+    background-image: linear-gradient(to bottom right, #8af5e3, white);
     
 }
 

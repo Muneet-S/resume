@@ -7,7 +7,7 @@ body {
 /* Body Header */
 
 #body-header {
-    height: 65vh;
+    height: 50vh;
     opacity: 0.8;
     background-image: url(https://ninjasfiles.s3.amazonaws.com/asset_0000000000000020_1549743985_macbook_mouse.jpg);
     background-size: cover;
